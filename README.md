@@ -10,5 +10,4 @@
 `GET /itembyid/{itemdId}`: Gibt ein einzelnes Elemnt zurück.
 **Parameter**: `itemId` - Einzigartige Id des Elements
 
-## eine änderung vornehmen
 
